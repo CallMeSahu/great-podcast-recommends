@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  background-color: lightcyan;
+}
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 1rem 0.5rem;
+  border: solid 1.75px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+hr {
+  width: 70%;
+}
+
+.podcast-list-item {
+  padding: 1rem;
+  margin: 0.5rem auto;
+  width: 35%;
+  border: solid 1.25px black;
+  border-radius: 0.5rem;
+  background-color: whitesmoke;
+  list-style: none;
+}
+
+.podcast-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.podcast-author {
+  font-size: 0.9rem;
+  padding-top: 0.4rem;
+}
