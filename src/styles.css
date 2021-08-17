@@ -39,3 +39,13 @@ hr {
   font-size: 0.9rem;
   padding-top: 0.4rem;
 }
+
+.podcast-description {
+  padding: 0.7rem;
+  font-size: small;
+  text-align: justify;
+}
+
+.podcast-rating {
+  padding: 0.5rem;
+}
