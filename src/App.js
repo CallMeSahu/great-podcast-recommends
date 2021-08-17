@@ -16,6 +16,13 @@ const podcastDictionary = {
       description:
         "Pondering everything from simulation theory to quantum mechanics to medicine to spirituality to find a consistent narrative to our lives. This is scientific existential therapy by Varun. ",
       rating: "⭐⭐⭐⭐⭐"
+    },
+    {
+      name: "The Partially Examined Life",
+      author: "Mark Linsenmayer",
+      description:
+        "The Partially Examined Life is a podcast by some guys who were at one point set on doing philosophy for a living but then thought better of it. Each episode, we pick a short text and chat about it with some balance between insight and flippancy. ",
+      rating: "⭐⭐⭐"
     }
   ],
 
@@ -33,6 +40,13 @@ const podcastDictionary = {
       description:
         "Tanay Pratap is a mentor/teacher on social media channels. He gets questions which need pondering and detailed thought process. Many such questions are answered on this podcast.",
       rating: "⭐⭐⭐⭐"
+    },
+    {
+      name: "JS Party",
+      author: "Changelog Media",
+      description:
+        "Weekly celebration of JavaScript and the web. This show records LIVE on Thursdays at 1pm US/Eastern time.",
+      rating: "⭐⭐⭐⭐"
     }
   ],
 
@@ -49,6 +63,13 @@ const podcastDictionary = {
       author: "Neil Patel & Eric Siu",
       description:
         "Daily ACTIONABLE digital marketing lessons that are learned through years of being in the trenches.",
+      rating: "⭐⭐⭐⭐"
+    },
+    {
+      name: "The $100 MBA Show",
+      author: "Omar Zenhom",
+      description:
+        "Show is a new kind of podcast where you simply get better at business with our practical business lessons for the real world. ",
       rating: "⭐⭐⭐⭐"
     }
   ]
