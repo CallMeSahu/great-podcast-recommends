@@ -1,4 +1,4 @@
-# Great Podcats
+# Great Podcasts
 The app is made using CodeSandbox and is based on ReactJS. It displays my top podcast recommendations.
 ## Working
 1. The user interacts with the app by clicking on the three catagory buttons in the app.
